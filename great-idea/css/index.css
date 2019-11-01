@@ -223,6 +223,7 @@ ul{
 li{
 	font-size:100%;
 	font-family:roboto;
+	height: 19px;
 }
 #button p{
 	text-align:center;
